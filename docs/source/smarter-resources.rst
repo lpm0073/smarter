@@ -42,3 +42,10 @@ capabilities of the various team member roles, and provides usable tools and abs
    smarter-resources/smarter-provider
    smarter-resources/smarter-plugin
    smarter-resources/smarter-prompt
+
+.. toctree::
+   :maxdepth: 1
+   :caption: NAPL Tutorials (UBC FENT20)
+
+   smarter-resources/napl-add-llm-provider
+   smarter-resources/napl-getting-started
